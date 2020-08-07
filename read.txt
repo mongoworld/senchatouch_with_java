@@ -1,0 +1,8 @@
+# Spring boot + Sencha Touch 파일업로드 연동 예제
+
+1. sencha cmd : webapp 경로로 이동하여 명령어 실행
+	sencha app watch
+	
+2. spring boot 실행
+
+3. http://localhost:8080 
