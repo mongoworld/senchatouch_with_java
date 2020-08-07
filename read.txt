@@ -1,5 +1,7 @@
 # Spring boot + Sencha Touch 파일업로드 연동 예제
 
+- sencha cmd install -> option(compose check)
+
 1. sencha cmd : webapp 경로로 이동하여 명령어 실행
 	sencha app watch
 	
